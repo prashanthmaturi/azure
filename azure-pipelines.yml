@@ -48,8 +48,6 @@ steps:
 
 
     scriptSource: 'inline'
-
-
     script: |
       print('AZURE PIPELINE')
       print('CONTINUOUS INTEGRATION & CONTINUOUS DEPLOYMENT')
